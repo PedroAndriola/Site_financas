@@ -1,11 +1,40 @@
-# Site_financas React
+# Finans React
 
-Este projeto é a conversão do site estático original para uma aplicação React utilizando Vite.
+Este projeto é a versão em React do site Finans, criada com o bundler Vite. O objetivo é demonstrar como transformar um site estático em uma aplicação de componentes React.
 
-## Scripts
+## Requisitos
 
-- `npm install` para instalar as dependências.
-- `npm run dev` para iniciar o servidor de desenvolvimento.
-- `npm run build` para gerar a versão de produção.
+- Node.js 14 ou superior
 
-As imagens ficam em `public/img` e o código fonte está na pasta `src`.
+## Instalação
+
+```bash
+npm install
+```
+
+## Ambiente de desenvolvimento
+
+```bash
+npm run dev
+```
+
+## Build de produção
+
+```bash
+npm run build
+```
+
+Para visualizar o build gerado:
+
+```bash
+npm run preview
+```
+
+## Estrutura do projeto
+
+- `public/` contém os arquivos estáticos e as imagens localizadas em `public/img`.
+- `src/` possui o código fonte em React. Os componentes principais são `Header`, `Home`, `Saiba`, `Juros`, `Recursos` e `Footer`.
+
+## Licença
+
+Este projeto é apenas demonstrativo e não possui licença específica.
