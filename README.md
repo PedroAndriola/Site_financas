@@ -38,3 +38,9 @@ npm run preview
 ## Licença
 
 Este projeto é apenas demonstrativo e não possui licença específica.
+
+## Contribuindo
+
+Contribuições são bem-vindas! Faça um fork deste repositório, crie um branch com
+sua feature ou correção e abra um pull request. Descreva claramente as mudanças
+propostas para facilitar a análise.
